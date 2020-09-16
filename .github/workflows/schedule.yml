@@ -14,5 +14,5 @@ jobs:
         uses: kang-heewon/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: b20846830e0b7c36cfe09aa7fe2f664c
+          GIST_ID: 2200f3f569781e9edffbd6f023e3b3ab
           TIMEZONE: Asia/Seoul
